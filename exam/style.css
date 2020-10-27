@@ -1,1 +1,14 @@
+#header{
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
 
+#left{
+    float: left;
+    width: 100px;
+    height: 800px;
+    background: lightseagreen;
+}
